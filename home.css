@@ -1,0 +1,17 @@
+.hero{
+text-align:center;
+margin-top:150px;
+}
+
+.hero h1{
+font-size:40px;
+color:#1e3a8a;
+}
+
+.hero button{
+padding:12px 25px;
+background:#2563eb;
+border:none;
+color:white;
+border-radius:5px;
+}
