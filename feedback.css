@@ -1,0 +1,11 @@
+.feedback-box{
+width:500px;
+margin:120px auto;
+background:white;
+padding:30px;
+}
+
+textarea{
+width:100%;
+height:100px;
+}
